@@ -6,4 +6,4 @@ A full-stack Spring Boot Web application for managing events, were user can crea
 A Spring Boot application demonstrating email functionality using Spring Mail.
 
 ---
-Each project folder contains the sources and deetailed instructions on how to set up, configure, and run the applications.
+Each project folder contains the source code and detailed instructions on how to set up, configure, and run the applications.
