@@ -19,7 +19,11 @@
 	                <label for="name" class="form-label">Item Name:</label>
 	                <input type="text" id="name" name="name" required class="form-control">
 	            </div>
-	           
+	            
+	            <div class="mb-3 col-6 mx-auto">
+	                <label for="quantity" class="form-label">Quantity:</label>
+	                <input type="number" id="quantity" name="quantity" value="1" min="1" required class="form-control">
+            </div>
             
            <div class="mx-auto ps-5" style="width: 200px;">
 								<button type="submit" class="btn btn-success btn-lg">Add Item</button>

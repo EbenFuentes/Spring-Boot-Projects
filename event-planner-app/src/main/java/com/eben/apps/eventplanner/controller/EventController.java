@@ -131,7 +131,7 @@ public class EventController {
 				itemRepo.save(item);
 				return "redirect:/viewEvent/" + eventId;
 			}
-			return "signUpForItem";
+			return "signupForItem";
 
 		} else {
 			return "redirect:/";
