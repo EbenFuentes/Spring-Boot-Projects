@@ -4,7 +4,7 @@ This is a full-stack Spring Boot web application for managing events, where user
 Each event includes items that attendees can bring, making it perfect for organizing gatherings.
 
 ## Demo Video
-[Demo](https://github.com/EbenFuentes/Spring-Boot-Projects/blob/master/video-demos/event-planner-demo.mp4)
+[![Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://github.com/EbenFuentes/Spring-Boot-Projects/blob/master/video-demos/event-planner-demo.mp4)
 
 
 ## Features
